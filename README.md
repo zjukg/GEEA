@@ -38,7 +38,7 @@ This source code is adaped from the official repository of [MEAformer](https://g
 ## Citation
 
 ```bib
-@inproceedings{NCGNN,
+@inproceedings{GEEA,
     author = {Lingbing Guo and
               Zhuo Chen and
               Jiaoyan Chen and
